@@ -2,6 +2,4 @@ amazonsns
 =========
 
 amazonsnsfirst comeit
-
-first commit
-assa
+First commit to SNS
